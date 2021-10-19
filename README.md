@@ -1,0 +1,2 @@
+# Hexo
+Some themes inside
